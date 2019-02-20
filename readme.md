@@ -1,4 +1,4 @@
-# A Very Basic MvcApp Project Tempalte
+# A Very Basic MvcApp Project Template
 
 ## Includes
 
